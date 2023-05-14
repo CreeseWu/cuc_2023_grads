@@ -8,7 +8,7 @@ npm start
 
 ## demo
 
-https://bj.bcebos.com/szbwg/tmp/xwu/index.html?key=870aceb1-63de-4e02-af88-f742d9165e11
+https://bj.bcebos.com/szbwg/tmp/xwu/index.html?key=12bb0c03-17c0-43cd-a675-bb8b7344c6c9
 
 生成自己的可以访问 https://cuc.neixiangde.ren/2023grads/学号/密码 但是账号一定要关闭两步验证
 
