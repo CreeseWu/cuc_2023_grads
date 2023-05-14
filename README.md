@@ -6,6 +6,10 @@ npm start
 # go to localhost:3000
 ```
 
+## 截图
+![](Frame 13.png)
+
+
 ## demo
 
 https://bj.bcebos.com/szbwg/tmp/xwu/index.html?key=12bb0c03-17c0-43cd-a675-bb8b7344c6c9
